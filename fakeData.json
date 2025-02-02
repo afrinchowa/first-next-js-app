@@ -6,7 +6,7 @@
           "category": "Laptop",
           "brand": "TechMaster",
           "price": 1200.99,
-          "image": "https://images.unsplash.com/photo-1738326310407-38b3e0156453?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHwzfHx8ZW58MHx8fHx8"
+          "image": "https://images.unsplash.com/photo-1497296805880-3b37686c87ea?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NDd8fGxhcHRvcHN8ZW58MHx8MHx8fDA%3D"
         },
         {
           "id": "2",
@@ -14,7 +14,7 @@
           "category": "Laptop",
           "brand": "UltraTech",
           "price": 999.99,
-          "image": "https://images.unsplash.com/photo-1738363436637-ee6f4a910715?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHwyfHx8ZW58MHx8fHx8"
+          "image": "https://images.unsplash.com/photo-1594823274242-19036bf455e9?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NTJ8fGxhcHRvcHN8ZW58MHx8MHx8fDA%3D8"
         },
         {
           "id": "3",
@@ -22,7 +22,7 @@
           "category": "Laptop",
           "brand": "MaxTech",
           "price": 1499.99,
-          "image": "https://images.unsplash.com/photo-1738330094149-03cc30132bbb?w=400&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHw2fHx8ZW58MHx8fHx8"
+          "image": "https://images.unsplash.com/photo-1544099858-75feeb57f01b?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fGxhcHRvcHN8ZW58MHx8MHx8fDA%3D"
         },
         {
           "id": 4,
@@ -30,7 +30,7 @@
           "category": "Laptop",
           "brand": "Acer",
           "price": 599.99,
-          "image": "https://example.com/images/acer-aspire-5.jpg"
+          "image": "https://images.unsplash.com/photo-1611078489935-0cb964de46d6?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bGFwdG9wc3xlbnwwfHwwfHx8MA%3D%3D"
         },
         {
           "id": 5,
@@ -38,7 +38,7 @@
           "category": "Laptop",
           "brand": "Dell",
           "price": 1199.99,
-          "image": "https://example.com/images/dell-xps-13.jpg"
+          "image": "https://images.unsplash.com/photo-1542393545-10f5cde2c810?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fGxhcHRvcHN8ZW58MHx8MHx8fDA%3D"
         },
         {
           "id": 6,
@@ -46,7 +46,7 @@
           "category": "Laptop",
           "brand": "Apple",
           "price": 2499.99,
-          "image": "https://example.com/images/macbook-pro-16.jpg"
+          "image": "https://images.unsplash.com/photo-1611186871348-b1ce696e52c9?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGxhcHRvcHN8ZW58MHx8MHx8fDA%3D"
         }
       ]
       
